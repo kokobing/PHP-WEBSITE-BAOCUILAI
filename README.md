@@ -3,7 +3,7 @@ README
 ===========================
 A complete enterprise website, including the Frontend and Backend admin page.  is uploaded in the repositories because of the end of the project/product life cycle. The code is for learning only and prohibits any business related behavior,website does not use any MVC framework, very suitable for beginners PHP study.
 
-PHP-WEBSITE-AIAIER 一个完整的企业网站，包括前台后台，因为项目生命周期完结，整理到仓库中以做总结，代码仅供学习，禁止任何与商业有关的行为！
+PHP-WEBSITE-BAOCUILAI 一个完整的企业网站，包括前台后台，因为项目生命周期完结，整理到仓库中以做总结，代码仅供学习，禁止任何与商业有关的行为！
 站点未用任何MVC框架，非常适合PHP初学者入门。  
 
 ****
