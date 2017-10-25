@@ -6,6 +6,8 @@ A complete enterprise website, including the Frontend and Backend admin page.  i
 PHP-WEBSITE-AIAIER 一个完整的企业网站，包括前台后台，因为项目生命周期完结，整理到仓库中以做总结，代码仅供学习，禁止任何与商业有关的行为！
 站点未用任何MVC框架，非常适合PHP初学者入门。  
 
+****
+![](https://github.com/Kokolpb/PHP-WEBSITE-BAOCUILAI/blob/master/home.png)  
 
 运行环境和下载地址 
 ===========================
@@ -64,6 +66,5 @@ PHP-WEBSITE-AIAIER 一个完整的企业网站，包括前台后台，因为项�
 |---|---
 |E-mail|495105@qq.com
 
-****
-![](https://github.com/Kokolpb/PHP-WEBSITE-AIAIER/blob/master/home.jpg)  
+
 
